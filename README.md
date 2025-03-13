@@ -1,5 +1,5 @@
 # punching-bag
 
-working on technique
+technique
 
 easily configurable debugger for leetcode hackerrank style questions!
